@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConsumoAPI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ejercicio 2</string>
+    <string name="nav_header_subtitle">Rodrigo Pinon Ayala</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_add">Ingresar</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_search">Buscar</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
